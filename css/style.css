@@ -1,0 +1,41 @@
+.center {
+    text-align: center;
+}
+
+hr {
+    color:gray;
+    width: 60%;
+}
+
+.letter { 
+    color: red; /* Красный цвет символов */
+}
+
+.black-letter {
+    color:black;
+}
+mark {
+    background-color: rgb(158, 168, 173);
+    color: aqua;
+}
+
+.html-hover { 
+    text-decoration-line: underline;
+    text-decoration-style: line
+   }
+.elements {
+    margin: auto;
+    width: 60%;
+}
+
+.code-snipet {
+    color: red;
+    margin: 20px auto;
+    width: 60%;
+    background-color: rgb(131, 127, 127);
+}
+
+body {
+    background-color: rgb(219, 224, 224);
+}
+ 
