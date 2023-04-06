@@ -1,0 +1,36 @@
+.color1 {
+    
+    background-color: rgb(107, 144, 201);
+    padding: 20px 10px 10px 20px;
+    
+}
+
+.color2 {
+    background-color: rgb(214, 73, 214);
+    color:black;
+    padding: 5px 1px 5px 5px;
+    list-style-type: none;
+
+}
+.color3  {
+    background-color: rgb(253, 174, 220);
+    text-decoration-line: line-through;
+    color:black;
+    padding: 5px 1px 5px 5px;
+    list-style-type: none;
+}
+.color4 {
+    background-color: rgb(241, 41, 158);
+    color:black;
+    padding: 5px 1px 5px 5px;
+    list-style-type: none;
+}
+li.color2::after {
+    content: '\274C';
+}
+li.color3::after {
+    content: '\274C';
+}
+li.color4::after {
+    content: '\274C';
+}
